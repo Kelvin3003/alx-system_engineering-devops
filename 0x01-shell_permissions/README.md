@@ -1,1 +1,1 @@
-A Script that prints the effective username of the current user
+A Script that changes the owner of the file
