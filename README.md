@@ -1,1 +1,1 @@
-Script that switches current user to the user betty
+Knowing more about using shell
